@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Sobre mí  
-💡 Apasionado por la tecnología, el desarrollo de software y las redes computacionales.  
+💡 Aprendiendo de tecnologias, el desarrollo de software y las redes computacionales.  
 💻 Experiencia en **C#, SQL, Redes y Desarrollo Móvil**.  
 
 ---
@@ -17,7 +17,7 @@
 ## 🛠️ Tecnologías y Habilidades  
 🔹 **Lenguajes:** C#, SQL, Java (Android)  
 🔹 **Herramientas:** Visual Studio, Android Studio, SQL Server  
-🔹 **Redes:** Configuración de routers, OSPF, administración de redes básicas  
+🔹 **Redes:** Configuración de routers, administración de redes básicas  
 
 ---
 
@@ -27,7 +27,7 @@
 🔹 Diseño y gestión de bases de datos SQL para sistemas empresariales.  
 
 ### 📱 Aplicación Android  
-🔹 Desarrollo de una app móvil con **Android Studio y Java**.  
+🔹 Desarrollo de una app móvil con **Android Studio**.  
 
 ### 🖥 Proyecto en C#  
 🔹 Aplicación de escritorio desarrollada en **C# con Visual Studio**.  
@@ -35,8 +35,8 @@
 ---
 
 ## 📫 Contacto  
-📩 **Correo:** [aaronarmas900@gmail.com](mailto:aaronarmas900@gmail.com)  
-🌐 **GitHub:** [TuPerfilGitHub](https://github.com/TuPerfilGitHub)  
+📩 **Correo:** [aaronarmas900@gmail.com]  
+🌐 **GitHub:** [Gaxbriel]
 
 ---
 
