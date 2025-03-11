@@ -32,7 +32,7 @@
 🔹 Desarrollo de una app móvil con **Android Studio**.  
 
 ### 🖥 Proyecto en C#  
-🔹 Aplicación de escritorio desarrollada en **C# con Visual Studio**.  
+🔹 Aplicación de escritorio desarrollada en **C# con Visual Studio**.       
 
 ---
 
