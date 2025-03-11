@@ -22,6 +22,8 @@
 ---
 
 ## 📌 Proyectos Destacados  
+🌐 Desarrollo de Página Web – **Gamificación en Matemáticas**  
+🔹 Creación de una plataforma educativa interactiva para mejorar la enseñanza de matemáticas a través de la gamificación. 
 
 ### 📊 Creación de Base de Datos  
 🔹 Diseño y gestión de bases de datos SQL para sistemas empresariales.  
